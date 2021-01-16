@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30240" started-at="2020-12-19T12:14:57Z" finished-at="2020-12-19T12:15:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30240" started-at="2020-12-19T12:14:57Z" finished-at="2020-12-19T12:15:27Z">
+      <class name="com.TestCase.TC_ResisterQA">
+        <test-method status="PASS" signature="filUp()[pri:0, instance:com.TestCase.TC_ResisterQA@2b98378d]" name="filUp" duration-ms="30178" started-at="2020-12-19T12:14:57Z" finished-at="2020-12-19T12:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filUp -->
+      </class> <!-- com.TestCase.TC_ResisterQA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
